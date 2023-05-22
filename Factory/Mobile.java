@@ -1,0 +1,6 @@
+
+interface Mobile{
+
+    void createMobile();
+
+}
